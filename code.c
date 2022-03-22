@@ -4,6 +4,7 @@
 void main()
 {
     char a[20];
+ printf("Upanshu\n");
 
     puts("enter the string=");
     gets(a);
